@@ -44,7 +44,7 @@ This is the backend for the Gemini PDF ChatBot, a project that allows users to c
    ```
 
 ### More
-You can learn more about this project from ![this](https://docs.google.com/document/d/17V5GnFC5bBrXAqQiHLoP3sWXrRsx17ECFlh8xQqZbOY/edit) overall documentation.
+You can learn more about this project from [this](https://docs.google.com/document/d/17V5GnFC5bBrXAqQiHLoP3sWXrRsx17ECFlh8xQqZbOY/edit) overall documentation.
 
 ### Overall Flow
 ![backend/overall_flow.png](backend/overall_flow.png)
