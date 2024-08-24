@@ -43,8 +43,5 @@ This is the backend for the Gemini PDF ChatBot, a project that allows users to c
    uvicorn app.main:app --reload
    ```
 
-### Project Structure
-![backend/Backend_Structure.png](backend/Backend_Structure.png)
-
 ### Overall Flow
 ![backend/overall_flow.png](backend/overall_flow.png)
