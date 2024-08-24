@@ -24,7 +24,7 @@ This is the backend for the Gemini PDF ChatBot, a project that allows users to c
 
    ```bash
    git clone https://github.com/sanskarpan/Gemini-PDF-ChatBot.git
-   cd backend
+   cd Gemini-PDF-ChatBot/backend 
    ```
 2. **Create and activate a virtual environment:**
    ```bash
